@@ -1,0 +1,25 @@
+body{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 500px; 
+    height: 500px;
+    background-color: cornflowerblue;
+    margin-left: -80px;
+    
+
+}
+.frame{
+    position: center;
+    top: 50%;
+    left: 20%;
+    width: 800px;
+    background:rgba(207, 9, 125, 0);
+    margin-left: -190px;
+    margin-right: 50px;
+    margin-top: -45px;
+    padding: 55px;
+    color: whitesmoke;
+    font-size: 40px;
+    font-style: italic;
+}
